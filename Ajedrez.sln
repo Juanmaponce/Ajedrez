@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAjedrez", "WindowsAj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libMedico", "libMedico\libMedico.csproj", "{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales", "Animales\Animales.csproj", "{49F333C6-9DDE-482B-AFD8-044B34175E55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

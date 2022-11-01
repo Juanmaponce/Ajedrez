@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnimales.Designer.cs">
+      <DependentUpon>FormAnimales.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMedico.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnimales.resx">
+      <DependentUpon>FormAnimales.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMedico.resx">
       <DependentUpon>FormMedico.cs</DependentUpon>
@@ -89,6 +98,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Animales\Animales.csproj">
+      <Project>{49f333c6-9dde-482b-afd8-044b34175e55}</Project>
+      <Name>Animales</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LibAjedrez\LibAjedrez.csproj">
       <Project>{7ad02247-9ea5-4281-b4c1-157ccc3b323d}</Project>
       <Name>LibAjedrez</Name>

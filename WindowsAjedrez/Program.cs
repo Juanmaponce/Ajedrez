@@ -16,7 +16,7 @@ namespace WindowsAjedrez
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMedico());
+            Application.Run(new FormAnimales());
         }
     }
 }
