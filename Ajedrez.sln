@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibAjedrez", "LibAjedrez\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAjedrez", "WindowsAjedrez\WindowsAjedrez.csproj", "{90BE2483-6DDF-4941-AA65-0C592BF0BC99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libMedico", "libMedico\libMedico.csproj", "{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{90BE2483-6DDF-4941-AA65-0C592BF0BC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90BE2483-6DDF-4941-AA65-0C592BF0BC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90BE2483-6DDF-4941-AA65-0C592BF0BC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85A9BA0-86C1-4A1E-8112-362FFE8FDFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
