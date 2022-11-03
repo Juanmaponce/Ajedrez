@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libMedico", "libMedico\libM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales", "Animales\Animales.csproj", "{49F333C6-9DDE-482B-AFD8-044B34175E55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empleados", "Empleados\Empleados.csproj", "{75A1970C-4C92-4E99-AE02-744AEF40DE7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F333C6-9DDE-482B-AFD8-044B34175E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A1970C-4C92-4E99-AE02-744AEF40DE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A1970C-4C92-4E99-AE02-744AEF40DE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A1970C-4C92-4E99-AE02-744AEF40DE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A1970C-4C92-4E99-AE02-744AEF40DE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
